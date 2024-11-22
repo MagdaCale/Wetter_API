@@ -11,8 +11,12 @@ Das Styling wurde bewusst minimal gehalten, da der Schwerpunkt auf dem API-Fetch
 1. **Wetterdaten anhand von Geodaten abrufen:**
    - Durch die Auswahl von Buttons mit Geokoordinaten (Latitude und Longitude) werden die Wetterdaten der jeweiligen Region abgerufen und angezeigt.
 
+![screenshot](./public/LonLat.png)
+
 2. **Wetterdaten basierend auf Städten abrufen:**
    - Durch Auswahl eines Städtenamens (z. B. Brasilien, Uganda) werden die entsprechenden Wetterdaten angezeigt.
+   - 
+![screenshot](./public/City.png)
 
 3. **Angezeigte Wetterinformationen:**
    - Beschreibung des aktuellen Wetters.
